@@ -1,7 +1,4 @@
-# alfred-spotify-controls
-Simple controls to play and pause spotify using Applescript
-
-#Alfred Spotify Controls
+# Alfred Spotify Controls
 
 This is a simple workflow that uses Applescript to Pause and Play Spotify. 
 
